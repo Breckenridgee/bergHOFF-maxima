@@ -3,51 +3,63 @@ title: "Special Promotion"
 ---
 
 <div class="rules_container">
-    <!-- <div class="rules_content">
-      <img src="images/promotion_ru.jpg" alt="promotion">
+    <div class="rules_content">
+      <!-- <img src="images/promotion_ru.jpg" alt="promotion"> -->
         <div class="tables" style="font-family: none">
             <table>
-                <thead><th colspan="2">Чтобы получить купон, купите один из следующих товаров:</th></thead>
+                <thead><th colspan="2">Купи любые 2 товара BergHoff из списка:</th></thead>
                 <tbody>
                     <tr>
-                        <th>5413821326849</th> <td>Сковорода Вок с крышкой BergHOFF 28 см</td>
+                        <th>5413821326818</th> <td>Сотейник с крышкой Berghoff 28 см</td>
                     </tr>
                     <tr>
-                        <th>5413821326566</th> <td>Сковорода BergHOFF 20 см</td>
+                        <th>5413821326726</th> <td>Кастрюля с крышкой Berghoff 20 см</td>
                     </tr>
                     <tr>
-                        <th>5413821326603</th> <td>Сковорода BergHOFF 24 см</td>
+                        <th>5413821326696</th> <td>Глубок.сковорода с крышкой Berghoff 18см</td>
                     </tr>
                     <tr>
-                        <th>5413821326634</th> <td>Сковорода BergHOFF 28 см</td>
+                        <th>5413821326788</th> <td>Высокая кастрюля с крышкой Berghoff 24см</td>
                     </tr>
                     <tr>
-                        <th>5413821326634</th> <td>Сковорода гриль BergHOFF 26 см</td>
+                        <th>5413821326849</th> <td>Сковорода Вок с крышкой Berghoff 28 см</td>
+                    </tr>
+                    <tr>
+                        <th>5413821326566</th> <td>Сковорода Berghoff 20 см</td>
+                    </tr>
+                    <tr>
+                        <th>5413821326603</th> <td>Сковорода Berghoff 24 см</td>
+                    </tr>
+                    <tr>
+                        <th>5413821326634</th> <td>Сковорода Berghoff 28 см</td>
+                    </tr>
+                    <tr>
+                        <th>5413821326665</th> <td>Сковорода гриль 26 см</td>
+                    </tr>
+                    <tr>
+                        <td>Товары могут быть разными.</td>
                     </tr>
                 </tbody>
             </table>
             <table>
-                <thead><th colspan="2">Товары, которые Вы можете приобрести со скидкой:</th></thead>
+                <thead><th colspan="2">И получи бесплатно 1 кухонный аксессуар на выбор:</th></thead>
                 <tbody>
                     <tr>
-                        <th>5413821326818</th> <td>Сотейник с крышкой и двумя ручками BergHOFF 28 см</td>
+                        <th>5413821085548</th> <td>Лопатка Berghoff</td>
                     </tr>
                     <tr>
-                        <th>5413821326726</th> <td>Жаропрочная кастрюля с крышкой BergHOFF 20 см</td>
+                        <th>5413821085586</th> <td>Лопатка Berghoff</td>
                     </tr>
                     <tr>
-                        <th>5413821326696</th> <td>Сотейник с крышкой BergHOFF 18 см</td>
-                    </tr>
-                    <tr>
-                        <th>5413821326788</th> <td>Суповая кастрюля с крышкой BergHOFF 24 см</td>
+                        <th>5413821059723</th> <td>Толкушка для картофеля Berghoff</td>
                     </tr>
                 </tbody>
             </table>
         </div>
-    </div>-->
-    <div class="no_promotion">
+    </div>
+    <!-- <div class="no_promotion">
         <p>Спасибо, что ознакомились с нашими рекламными кампаниями.</p>
         <p>Специальной рекламной кампании в данный момент нет.</p>
         <p>Пожалуйста, возвращайтесь в ближайшее время.</p>
-    </div>
+    </div> -->
 </div>
