@@ -4,7 +4,7 @@ title: "Special Promotion"
 
 <div class="rules_container">
     <div class="rules_content">
-      <!-- <img src="images/promotion_ru.jpg" alt="promotion"> -->
+      <!-- <img src="images/promotion_2_ru.jpg" alt="promotion" style="margin-bottom: 1%"> -->
         <div class="tables" style="font-family: none">
             <table>
                 <thead><th colspan="2">Купи любые 2 товара BergHoff из списка:</th></thead>

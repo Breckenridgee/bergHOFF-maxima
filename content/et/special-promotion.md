@@ -4,7 +4,7 @@ title: "Special Promotion"
 
 <div class="rules_container">
     <div class="rules_content">
-      <img src="images/promotion_2.jpg" alt="promotion">
+      <img src="images/promotion_2.jpg" alt="promotion" style="margin-bottom: 1%">
         <div class="tables">
             <table>
                 <thead><th colspan="2">Osta sellest valikust 2 BergHoffi toodet:</th></thead>
