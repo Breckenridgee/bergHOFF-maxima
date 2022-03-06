@@ -37,7 +37,7 @@ title: "Special Promotion"
                         <th>5413821326665</th> <td>Сковорода гриль 26 см</td>
                     </tr>
                     <tr>
-                        <td>Товары могут быть разными.</td>
+                        <th colspan="2">Товары могут быть разными.</th>
                     </tr>
                 </tbody>
             </table>

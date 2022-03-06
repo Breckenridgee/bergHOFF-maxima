@@ -37,7 +37,7 @@ title: "Special Promotion"
                         <th>5413821326665</th> <td>Grillpann Berghoff 26 cm</td>
                     </tr>
                     <tr>
-                        <td>Tooted võivad olla erinevad.</td>
+                        <th colspan="2">Tooted võivad olla erinevad.</th>
                     </tr>
                 </tbody>
             </table>
