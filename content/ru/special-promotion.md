@@ -3,9 +3,9 @@ title: "Special Promotion"
 ---
 
 <div class="rules_container">
-    <div class="rules_content">
-      <!-- <img src="images/promotion_ru.jpg" alt="promotion" style="margin-bottom: 1%"> -->
-        <!-- <div class="tables" style="font-family: none">
+    <!-- <div class="rules_content">
+      <img src="images/promotion_ru.jpg" alt="promotion" style="margin-bottom: 1%">
+        <div class="tables" style="font-family: none">
             <table>
                 <thead><th colspan="2">Купи любые 2 товара BergHoff из списка:</th></thead>
                 <tbody>
@@ -55,8 +55,8 @@ title: "Special Promotion"
                     </tr>
                 </tbody>
             </table>
-        </div> -->
-    </div>
+        </div>
+    </div> -->
     <div class="no_promotion">
         <p>Спасибо, что ознакомились с нашими рекламными кампаниями.</p>
         <p>Специальной рекламной кампании в данный момент нет.</p>

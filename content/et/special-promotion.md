@@ -3,9 +3,9 @@ title: "Special Promotion"
 ---
 
 <div class="rules_container">
-    <div class="rules_content">
-      <!-- <img src="images/promotion_et.jpg" alt="promotion" style="margin-bottom: 1%"> -->
-        <!-- <div class="tables">
+    <!-- <div class="rules_content">
+      <img src="images/promotion_et.jpg" alt="promotion" style="margin-bottom: 1%">
+        <div class="tables">
             <table>
                 <thead><th colspan="2">Osta sellest valikust 2 BergHoffi toodet:</th></thead>
                 <tbody>
@@ -55,8 +55,8 @@ title: "Special Promotion"
                     </tr>
                 </tbody>
             </table>
-        </div> -->
-    </div>
+        </div>
+    </div> -->
     <div class="no_promotion">
         <p>Täname, et vaatate meie pakkumisi.</p>
         <p>Hetkel eripakkumisi ei ole.</p>
