@@ -7,7 +7,7 @@ title: "Special Promotion"
       <img src="images/promotion_et.jpg" alt="promotion" style="margin-bottom: 1%">
         <div class="tables">
             <table style="width: 100%">
-                <thead><th colspan="2">Osta sellest valikust 2 BergHoffi toodet:</th></thead>
+                <thead><th colspan="2">Tooted, mis osalevad kampaanias:</th></thead>
                 <tbody>
                     <tr>
                         <th>5413821326818</th> <td>Kaanega haudenõu Berghoff 28 cm</td>
