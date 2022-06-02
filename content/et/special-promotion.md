@@ -2,8 +2,8 @@
 title: "Special Promotion"
 ---
 
-<div class="rules_container">
-    <div class="rules_content">
+<div class="rules_container"> -->
+    <!--<div class="rules_content">
       <img src="images/promotion_et.jpg" alt="promotion" style="margin-bottom: 1%">
         <div class="tables">
             <table style="width: 100%">
@@ -18,7 +18,7 @@ title: "Special Promotion"
                     <tr>
                         <th>5413821326665</th> <td>Grillpann Berghoff 26 cm  </td>
                     </tr>
-                    <!-- <tr>
+                    <tr>
                         <th>5413821326788</th> <td>Kaanega supipott Berghoff 24 cm</td>
                     </tr>
                     <tr>
@@ -38,10 +38,10 @@ title: "Special Promotion"
                     </tr>
                     <tr>
                         <th colspan="2">Tooted võivad olla erinevad.</th>
-                    </tr> -->
+                    </tr>
                 </tbody>
             </table>
-            <!-- <table>
+            <table>
                 <thead><th colspan="2">ja saad sellest valikust 1 BergHoffi köögitarviku tasuta:</th></thead>
                 <tbody>
                     <tr>
@@ -54,12 +54,12 @@ title: "Special Promotion"
                         <th>5413821059723</th> <td>Pudrunui Berghoff</td>
                     </tr>
                 </tbody>
-            </table> -->
+            </table>
         </div>
-    </div>
-    <!-- <div class="no_promotion">
+    </div> -->
+    <div class="no_promotion">
         <p>Täname, et vaatate meie pakkumisi.</p>
         <p>Hetkel eripakkumisi ei ole.</p>
         <p>Külastage meid varsti uuesti!</p>
-    </div> -->
+    </div>
 </div>
