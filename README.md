@@ -1,1 +1,0 @@
-# bergHOFF-maxima-test
