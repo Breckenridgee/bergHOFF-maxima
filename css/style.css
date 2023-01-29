@@ -2180,3 +2180,22 @@ mobile_no_visible {
     display: none;
   }
 }
+
+.promotion-text {
+    width: 60vw;
+    background-color: #798071;
+    padding: 20px;
+    text-align: center;
+ }
+.promotion-img {
+    width: 60vw;
+}
+
+@media screen and (max-width: 768px) {
+  .promotion-text {
+    width: 100vw;
+  }
+  .promotion-img {
+    width: 100vw;
+  }
+}
