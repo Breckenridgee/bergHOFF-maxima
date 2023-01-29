@@ -2193,9 +2193,9 @@ mobile_no_visible {
 
 @media screen and (max-width: 768px) {
   .promotion-text {
-    width: 100vw;
+    width: 90vw;
   }
   .promotion-img {
-    width: 100vw;
+    width: 90vw;
   }
 }
