@@ -23,6 +23,9 @@ body {
   line-height: 1.7;
   color: #777;
   background: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 #page {
@@ -34,6 +37,7 @@ body {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  flex: 1;
 }
 .offcanvas #page {
   overflow: hidden;
@@ -600,14 +604,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #berghoff-footer {
-  /*position: absolute;*/
-  /*bottom: 0;*/
   background: #798071;
   padding: 3.5em 0 0 0 !important;
   margin-bottom: 0 !important;
   width: 100%;
   float: left;
-  /*height: 350px;*/
 }
 
 #berghoff-footer a {
